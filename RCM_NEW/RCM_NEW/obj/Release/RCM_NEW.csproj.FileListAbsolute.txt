@@ -1,0 +1,7 @@
+C:\Users\Oleksandr\Desktop\RCM_NEW\RCM_NEW\bin\RCM_NEW.dll
+C:\Users\Oleksandr\Desktop\RCM_NEW\RCM_NEW\bin\RCM_NEW.pdb
+C:\Users\Oleksandr\Desktop\RCM_NEW\RCM_NEW\bin\Utilities.dll
+C:\Users\Oleksandr\Desktop\RCM_NEW\RCM_NEW\bin\Utilities.pdb
+C:\Users\Oleksandr\Desktop\RCM_NEW\RCM_NEW\obj\Release\RCM_NEW.csprojResolveAssemblyReference.cache
+C:\Users\Oleksandr\Desktop\RCM_NEW\RCM_NEW\obj\Release\RCM_NEW.dll
+C:\Users\Oleksandr\Desktop\RCM_NEW\RCM_NEW\obj\Release\RCM_NEW.pdb

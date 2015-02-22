@@ -1,0 +1,1971 @@
+@import url("//cloud.typography.com/6014712/655386/css/fonts.css");
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_layout\.scss}line{font-family:\0000329}}
+.tu-global-alert,
+.tu-global-header,
+.tu-global-branding,
+.tu-global-postscript-inner,
+.tu-global-footer {
+  *zoom: 1;
+  max-width: 95%;
+  _width: 95%;
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 95%;
+  _width: 95%;
+  margin-bottom: 1.5em;
+  position: relative; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/\.rvm\/gems\/ruby-2\.0\.0-p247\@templates\/gems\/compass-0\.12\.6\/frameworks\/compass\/stylesheets\/compass\/utilities\/general\/_clearfix\.scss}line{font-family:\0000338}}
+  .tu-global-alert:after,
+  .tu-global-header:after,
+  .tu-global-branding:after,
+  .tu-global-postscript-inner:after,
+  .tu-global-footer:after {
+    content: "";
+    display: table;
+    clear: both; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_layout\.scss}line{font-family:\0000338}}
+.tu-global-header {
+  max-width: 100%;
+  _width: 100%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_layout\.scss}line{font-family:\0000344}}
+.tu-global-postscript-first,
+.tu-global-postscript-second,
+.tu-global-postscript-third {
+  width: 100%;
+  float: left;
+  margin-right: 2.02429%;
+  display: inline; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_layout\.scss}line{font-family:\0000348}}
+.tu-global-header-first {
+  width: 65.9919%;
+  float: left;
+  margin-right: 2.02429%;
+  display: inline; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_layout\.scss}line{font-family:\0000352}}
+.tu-global-header-second {
+  width: 31.98381%;
+  float: right;
+  margin-right: 0;
+  *margin-left: -1.25em;
+  display: inline; }
+
+@media (min-width: 480px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_layout\.scss}line{font-family:\0000357}}
+  .tu-global-postscript-first {
+    width: 48.98785%;
+    float: left;
+    margin-right: 2.02429%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_layout\.scss}line{font-family:\0000361}}
+  .tu-global-postscript-second {
+    width: 48.98785%;
+    float: right;
+    margin-right: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_layout\.scss}line{font-family:\0000365}}
+  .tu-global-postscript-third {
+    width: 100%;
+    float: left;
+    margin-right: 2.02429%; } }
+@media (min-width: 620px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_layout\.scss}line{font-family:\0000372}}
+  .tu-global-postscript-first,
+  .tu-global-postscript-second {
+    width: 31.98381%;
+    float: left;
+    margin-right: 2.02429%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_layout\.scss}line{font-family:\0000376}}
+  .tu-global-postscript-third {
+    width: 31.98381%;
+    float: right;
+    margin-right: 0; } }
+@media (min-width: 780px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_layout\.scss}line{font-family:\0000386}}
+  .tu-global-header,
+  .tu-global-branding {
+    max-width: 95%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_layout\.scss}line{font-family:\0000390}}
+  .tu-global-header-first {
+    width: 40.48583%;
+    float: left;
+    margin-right: 2.02429%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_layout\.scss}line{font-family:\0000394}}
+  .tu-global-header-second {
+    width: 57.48988%;
+    float: right;
+    margin-right: 0; } }
+@media (min-width: 1000px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_layout\.scss}line{font-family:\00003107}}
+  .tu-global-alert,
+  .tu-global-header,
+  .tu-global-branding,
+  .tu-global-postscript-inner,
+  .tu-global-footer {
+    max-width: 960px; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_layout\.scss}line{font-family:\00003119}}
+.lt-ie9 .tu-global-alert,
+.lt-ie9 .tu-global-header,
+.lt-ie9 .tu-global-branding,
+.lt-ie9 .tu-global-postscript-inner,
+.lt-ie9 .tu-global-footer {
+  max-width: 960px;
+  _width: 960px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_layout\.scss}line{font-family:\00003126}}
+.lt-ie9 .tu-global-header,
+.lt-ie9 .tu-global-branding {
+  max-width: 95%;
+  _width: 95%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_layout\.scss}line{font-family:\00003130}}
+.lt-ie9 .tu-global-header-first {
+  width: 40.48583%;
+  float: left;
+  margin-right: 2.02429%;
+  display: inline; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_layout\.scss}line{font-family:\00003134}}
+.lt-ie9 .tu-global-header-second {
+  width: 57.48988%;
+  float: right;
+  margin-right: 0;
+  *margin-left: -1.25em;
+  display: inline; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_layout\.scss}line{font-family:\00003139}}
+.lt-ie9 .tu-global-postscript-first,
+.lt-ie9 .tu-global-postscript-second {
+  width: 31.98381%;
+  float: left;
+  margin-right: 2.02429%;
+  display: inline; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_layout\.scss}line{font-family:\00003143}}
+.lt-ie9 .tu-global-postscript-third {
+  width: 31.98381%;
+  float: right;
+  margin-right: 0;
+  *margin-left: -1.25em;
+  display: inline; }
+
+/*******************************************************************************
+**
+** URL TO ASSETS.TEMPLE.EDU FILES DIRECTORY
+**
+******************************************************************************/
+/*******************************************************************************
+**
+** MEDIA QUERY BREAKPOINTS
+**
+******************************************************************************/
+/*******************************************************************************
+**
+** TYPOGRAPHY
+**
+******************************************************************************/
+/*==========GLOBAL FONT STYLES==========*/
+/*==========SUB FONT STYLES==========*/
+/*******************************************************************************
+**
+** COLORS
+**
+******************************************************************************/
+/*******************************************************************************
+**
+** FONT FAMILY MIXINS
+**
+******************************************************************************/
+/*==========FONT FAMILY DEFINITIONS==========*/
+/*
+  @font-face {
+    font-family: 'Choplin-Light';
+    src: url("https://assets.temple.edu/sites/assets/files/fonts/choplin/2C2A22_0_0.eot");
+    src: url("https://assets.temple.edu/sites/assets/files/fonts/choplin/2C2A22_0_0.eot?#iefix") format('embedded-opentype'),
+         url("https://assets.temple.edu/sites/assets/files/fonts/choplin/2C2A22_0_0.woff") format('woff'),
+         url("https://assets.temple.edu/sites/assets/files/fonts/choplin/2C2A22_0_0.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Choplin-Medium';
+    src: url("https://assets.temple.edu/sites/assets/files/fonts/choplin/2C2A22_1_0.eot");
+    src: url("https://assets.temple.edu/sites/assets/files/fonts/choplin/2C2A22_1_0.eot?#iefix") format('embedded-opentype'),
+         url("https://assets.temple.edu/sites/assets/files/fonts/choplin/2C2A22_1_0.woff") format('woff'),
+         url("https://assets.temple.edu/sites/assets/files/fonts/choplin/2C2A22_1_0.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'ColfaxWebRegularItalic';
+    src: url("https://assets.temple.edu/sites/assets/files/fonts/colfax/ColfaxWebRegularItalic.eot");
+    src: url("https://assets.temple.edu/sites/assets/files/fonts/colfax/ColfaxWebRegularItalic.eot?#iefix") format('embedded-opentype'),
+         url("https://assets.temple.edu/sites/assets/files/fonts/colfax/ColfaxWebRegularItalic.woff") format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'ColfaxWebMediumItalic';
+    src: url("https://assets.temple.edu/sites/assets/files/fonts/colfax/ColfaxWebMediumItalic.eot");
+    src: url("https://assets.temple.edu/sites/assets/files/fonts/colfax/ColfaxWebMediumItalic.eot?#iefix") format('embedded-opentype'),
+         url("https://assets.temple.edu/sites/assets/files/fonts/colfax/ColfaxWebMediumItalic.woff") format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'ColfaxWebBoldItalic';
+    src: url("https://assets.temple.edu/sites/assets/files/fonts/colfax/ColfaxWebBoldItalic.eot");
+    src: url("https://assets.temple.edu/sites/assets/files/fonts/colfax/ColfaxWebBoldItalic.eot?#iefix") format('embedded-opentype'),
+         url("https://assets.temple.edu/sites/assets/files/fonts/colfax/ColfaxWebBoldItalic.woff") format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'ColfaxWebBlackItalic';
+    src: url("https://assets.temple.edu/sites/assets/files/fonts/colfax/ColfaxWebBlackItalic.eot");
+    src: url("https://assets.temple.edu/sites/assets/files/fonts/colfax/ColfaxWebBlackItalic.eot?#iefix") format('embedded-opentype'),
+         url("https://assets.temple.edu/sites/assets/files/fonts/colfax/ColfaxWebBlackItalic.woff") format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+*/
+@font-face {
+  font-family: 'pt_sansregular';
+  src: url("https://assets.temple.edu/sites/assets/files/fonts/pt-sans/pt_sans-web-regular-webfont.eot");
+  src: url("https://assets.temple.edu/sites/assets/files/fonts/pt-sans/pt_sans-web-regular-webfont.eot?#iefix") format("embedded-opentype"), url("https://assets.temple.edu/sites/assets/files/fonts/pt-sans/pt_sans-web-regular-webfont.woff2") format("woff2"), url("https://assets.temple.edu/sites/assets/files/fonts/pt-sans/pt_sans-web-regular-webfont.woff") format("woff"), url("https://assets.temple.edu/sites/assets/files/fonts/pt-sans/pt_sans-web-regular-webfont.ttf") format("truetype"), url("https://assets.temple.edu/sites/assets/files/fonts/pt-sans/pt_sans-web-regular-webfont.svg#pt_sansregular") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'pt_sansitalic';
+  src: url("https://assets.temple.edu/sites/assets/files/fonts/pt-sans/pt_sans-web-italic-webfont.eot");
+  src: url("https://assets.temple.edu/sites/assets/files/fonts/pt-sans/pt_sans-web-italic-webfont.eot?#iefix") format("embedded-opentype"), url("https://assets.temple.edu/sites/assets/files/fonts/pt-sans/pt_sans-web-italic-webfont.woff2") format("woff2"), url("https://assets.temple.edu/sites/assets/files/fonts/pt-sans/pt_sans-web-italic-webfont.woff") format("woff"), url("https://assets.temple.edu/sites/assets/files/fonts/pt-sans/pt_sans-web-italic-webfont.ttf") format("truetype"), url("https://assets.temple.edu/sites/assets/files/fonts/pt-sans/pt_sans-web-italic-webfont.svg#pt_sansitalic") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'pt_sansbold';
+  src: url("https://assets.temple.edu/sites/assets/files/fonts/pt-sans/pt_sans-web-bold-webfont.eot");
+  src: url("https://assets.temple.edu/sites/assets/files/fonts/pt-sans/pt_sans-web-bold-webfont.eot?#iefix") format("embedded-opentype"), url("https://assets.temple.edu/sites/assets/files/fonts/pt-sans/pt_sans-web-bold-webfont.woff2") format("woff2"), url("https://assets.temple.edu/sites/assets/files/fonts/pt-sans/pt_sans-web-bold-webfont.woff") format("woff"), url("https://assets.temple.edu/sites/assets/files/fonts/pt-sans/pt_sans-web-bold-webfont.ttf") format("truetype"), url("https://assets.temple.edu/sites/assets/files/fonts/pt-sans/pt_sans-web-bold-webfont.svg#pt_sansbold") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'pt_sansbold_italic';
+  src: url("https://assets.temple.edu/sites/assets/files/fonts/pt-sans/pt_sans-web-bolditalic-webfont.eot");
+  src: url("https://assets.temple.edu/sites/assets/files/fonts/pt-sans/pt_sans-web-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("https://assets.temple.edu/sites/assets/files/fonts/pt-sans/pt_sans-web-bolditalic-webfont.woff2") format("woff2"), url("https://assets.temple.edu/sites/assets/files/fonts/pt-sans/pt_sans-web-bolditalic-webfont.woff") format("woff"), url("https://assets.temple.edu/sites/assets/files/fonts/pt-sans/pt_sans-web-bolditalic-webfont.ttf") format("truetype"), url("https://assets.temple.edu/sites/assets/files/fonts/pt-sans/pt_sans-web-bolditalic-webfont.svg#pt_sansbold_italic") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'arvo_regular';
+  src: url("https://assets.temple.edu/sites/assets/files/fonts/arvo/arvo-regular-webfont.eot");
+  src: url("https://assets.temple.edu/sites/assets/files/fonts/arvo/arvo-regular-webfont.eot?#iefix") format("embedded-opentype"), url("https://assets.temple.edu/sites/assets/files/fonts/arvo/arvo-regular-webfont.woff") format("woff"), url("https://assets.temple.edu/sites/assets/files/fonts/arvo/arvo-regular-webfont.ttf") format("truetype"), url("https://assets.temple.edu/sites/assets/files/fonts/arvo/arvo-regular-webfont.svg#arvoregular") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'bebas_neueregular';
+  src: url("https://assets.temple.edu/sites/assets/files/fonts/bebas/bebasneue-webfont.eot");
+  src: url("https://assets.temple.edu/sites/assets/files/fonts/bebas/bebasneue-webfont.eot?#iefix") format("embedded-opentype"), url("https://assets.temple.edu/sites/assets/files/fonts/bebas/bebasneue-webfont.woff") format("woff"), url("https://assets.temple.edu/sites/assets/files/fonts/bebas/bebasneue-webfont.ttf") format("truetype"), url("https://assets.temple.edu/sites/assets/files/fonts/bebas/bebasneue-webfont.svg#bebas_neueregular") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'droid_sansregular';
+  src: url("https://assets.temple.edu/sites/assets/files/fonts/droid/droidsans-webfont.eot");
+  src: url("https://assets.temple.edu/sites/assets/files/fonts/droid/droidsans-webfont.eot?#iefix") format("embedded-opentype"), url("https://assets.temple.edu/sites/assets/files/fonts/droid/droidsans-webfont.woff") format("woff"), url("https://assets.temple.edu/sites/assets/files/fonts/droid/droidsans-webfont.ttf") format("truetype"), url("https://assets.temple.edu/sites/assets/files/fonts/droid/droidsans-webfont.svg#droid_sansregular") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'droid_sansbold';
+  src: url("https://assets.temple.edu/sites/assets/files/fonts/droid/droidsans-bold-webfont.eot");
+  src: url("https://assets.temple.edu/sites/assets/files/fonts/droid/droidsans-bold-webfont.eot?#iefix") format("embedded-opentype"), url("https://assets.temple.edu/sites/assets/files/fonts/droid/droidsans-bold-webfont.woff") format("woff"), url("https://assets.temple.edu/sites/assets/files/fonts/droid/droidsans-bold-webfont.ttf") format("truetype"), url("https://assets.temple.edu/sites/assets/files/fonts/droid/droidsans-bold-webfont.svg#droid_sansbold") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'open_sanscondensed_light';
+  src: url("https://assets.temple.edu/sites/assets/files/fonts/open/opensans-condlight-webfont.eot");
+  src: url("https://assets.temple.edu/sites/assets/files/fonts/open/opensans-condlight-webfont.eot?#iefix") format("embedded-opentype"), url("https://assets.temple.edu/sites/assets/files/fonts/open/opensans-condlight-webfont.woff") format("woff"), url("https://assets.temple.edu/sites/assets/files/fonts/open/opensans-condlight-webfont.ttf") format("truetype"), url("https://assets.temple.edu/sites/assets/files/fonts/open/opensans-condlight-webfont.svg#open_sanscondensed_light") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'open_sans_condensedbold';
+  src: url("https://assets.temple.edu/sites/assets/files/fonts/open/opensans-condbold-webfont.eot");
+  src: url("https://assets.temple.edu/sites/assets/files/fonts/open/opensans-condbold-webfont.eot?#iefix") format("embedded-opentype"), url("https://assets.temple.edu/sites/assets/files/fonts/open/opensans-condbold-webfont.woff") format("woff"), url("https://assets.temple.edu/sites/assets/files/fonts/open/opensans-condbold-webfont.ttf") format("truetype"), url("https://assets.temple.edu/sites/assets/files/fonts/open/opensans-condbold-webfont.svg#open_sans_condensedbold") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'roboto_condensedregular';
+  src: url("https://assets.temple.edu/sites/assets/files/fonts/roboto/robotocondensed-regular-webfont.eot");
+  src: url("https://assets.temple.edu/sites/assets/files/fonts/roboto/robotocondensed-regular-webfont.eot?#iefix") format("embedded-opentype"), url("https://assets.temple.edu/sites/assets/files/fonts/roboto/robotocondensed-regular-webfont.woff") format("woff"), url("https://assets.temple.edu/sites/assets/files/fonts/roboto/robotocondensed-regular-webfont.ttf") format("truetype"), url("https://assets.temple.edu/sites/assets/files/fonts/roboto/robotocondensed-regular-webfont.svg#roboto_condensedregular") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+/*==========FONT MIXIN ASSIGNMENT==========*/
+/*
+@mixin choplin_light {
+  font-family: 'Choplin-Light';
+  @include font_smooth;
+}
+
+@mixin choplin_medium {
+  font-family: 'Choplin-Medium';
+  @include font_smooth;
+}
+
+@mixin colfax_italic {
+  font-family: 'ColfaxWebRegularItalic';
+  @include font_smooth;
+}
+
+@mixin colfax_medium_italic {
+  font-family: 'ColfaxWebMediumItalic';
+  @include font_smooth;
+}
+
+@mixin colfax_bold_italic {
+  font-family: 'ColfaxWebBoldItalic';
+  @include font_smooth;
+}
+
+@mixin colfax_black_italic {
+  font-family: 'ColfaxWebBlackItalic';
+  @include font_smooth;
+}
+*/
+/*******************************************************************************
+**
+** GLOBAL MIXINS
+**
+******************************************************************************/
+/*==========VERTICAL RHYTHM==========*/
+/*==========BORDER MAKER==========*/
+/*==========LIST STYLES==========*/
+/*==========LINK FOCUS==========*/
+/*******************************************************************************
+**
+** GLOBAL STYLES
+**
+******************************************************************************/
+/*==========BASE STYLES==========*/
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_base\.scss}line{font-family:\0000311}}
+.tu-global-header-wrapper,
+.tu-global-postscript-inner-wrapper,
+.tu-global-footer-inner-wrapper {
+  font-size: 16px;
+  text-rendering: auto; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_base\.scss}line{font-family:\0000324}}
+.tu-global-alert-wrapper,
+.tu-global-header-inner-wrapper,
+.tu-global-branding,
+.tu-global-postscript-inner-wrapper,
+.tu-global-postscript-first,
+.tu-global-postscript-second,
+.tu-global-postscript-third,
+.tu-global-footer-first,
+.tu-global-footer-second {
+  font-size: 93.6%;
+  line-height: 1.5em;
+  font-family: 'droid_sansregular';
+  font-weight: normal;
+  -webkit-font-smoothing: antialiased;
+  letter-spacing: 0;
+  color: #494949;
+  margin: 0;
+  padding: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_base\.scss}line{font-family:\0000331}}
+  .tu-global-alert-wrapper *,
+  .tu-global-header-inner-wrapper *,
+  .tu-global-branding *,
+  .tu-global-postscript-inner-wrapper *,
+  .tu-global-postscript-first *,
+  .tu-global-postscript-second *,
+  .tu-global-postscript-third *,
+  .tu-global-footer-first *,
+  .tu-global-footer-second * {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box; }
+
+/*==========SKIP CONTENT TAB==========*/
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_base\.scss}line{font-family:\0000336}}
+body {
+  margin: 0;
+  padding: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_base\.scss}line{font-family:\0000339}}
+  body #skip-link {
+    position: absolute;
+    z-index: 10000;
+    top: 0;
+    left: 0;
+    margin: 0;
+    width: 100%;
+    background: #222222; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_base\.scss}line{font-family:\0000347}}
+    body #skip-link a, body #skip-link a:active, body #skip-link a:visited {
+      position: static !important;
+      font-family: 'droid_sansregular';
+      font-weight: normal;
+      -webkit-font-smoothing: antialiased;
+      letter-spacing: 0;
+      font-weight: 700;
+      line-height: 1.5em;
+      text-transform: uppercase;
+      text-align: center;
+      text-decoration: none;
+      margin: -100em auto 0;
+      display: block;
+      padding: 1em 0;
+      border-radius: 0 !important;
+      color: #ffffff;
+      background: #444444;
+      width: 20%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_base\.scss}line{font-family:\0000362}}
+    body #skip-link a:active, body #skip-link a:visited, body #skip-link a:focus {
+      margin-top: 0;
+      text-decoration: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_base\.scss}line{font-family:\0000366}}
+    body #skip-link a:focus {
+      outline: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_base\.scss}line{font-family:\0000369}}
+  body noscript {
+    display: block; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_base\.scss}line{font-family:\0000374}}
+  body form[action*="/admin/"] img,
+  body #toolbar img {
+    display: inline;
+    width: auto; }
+
+/*******************************************************************************
+**
+** HEADER WRAPPER
+**
+******************************************************************************/
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\000037}}
+.html {
+  /*==========ALERT MESSAGING SYSTEM==========*/
+  /*==========HEADER WRAPPER==========*/
+  /*==========FIRST HEADER REGION==========*/
+  /*==========SECOND HEADER REGION==========*/
+  /*=====BRANDING REGION=====*/ }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\0000313}}
+  .html #tu-global-alert-wrapper {
+    display: none;
+    opacity: 0;
+    background-color: #f1d30f;
+    background-image: repeating-linear-gradient(-45deg, transparent, transparent 35px, rgba(255, 255, 255, 0.2) 0, rgba(255, 255, 255, 0.2) 70px);
+    -webkit-transition: opacity .25s;
+    -moz-transition: opacity .25s;
+    -o-transition: opacity .25s;
+    -ms-transition: opacity .25s;
+    transition: opacity .25s; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\0000323}}
+    .html #tu-global-alert-wrapper .tu-global-alert {
+      margin-bottom: 0;
+      padding: 1.07143em 0 1.42857em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\0000326}}
+      .html #tu-global-alert-wrapper .tu-global-alert .tu-global-alert-inner {
+        opacity: 0;
+        -webkit-transition: opacity .25s;
+        -moz-transition: opacity .25s;
+        -o-transition: opacity .25s;
+        -ms-transition: opacity .25s;
+        transition: opacity .25s; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\0000333}}
+        .html #tu-global-alert-wrapper .tu-global-alert .tu-global-alert-inner .tu-global-alert-icon {
+          width: 2.5em;
+          height: 2.5em;
+          margin: 0 auto 0.35714em;
+          background: url("https://assets.temple.edu/sites/assets/files/images/svg/alert-message-icon.svg") no-repeat 0 center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\0000339}}
+        .html #tu-global-alert-wrapper .tu-global-alert .tu-global-alert-inner p {
+          font-family: 'bebas_neueregular';
+          font-weight: normal;
+          -webkit-font-smoothing: antialiased;
+          letter-spacing: 0;
+          letter-spacing: .03em;
+          -webkit-font-smoothing: subpixel-antialiased;
+          font-size: 1.85714em;
+          line-height: 1.14286em;
+          color: #494949;
+          text-align: center;
+          text-transform: uppercase;
+          margin: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\0000349}}
+        .html #tu-global-alert-wrapper .tu-global-alert .tu-global-alert-inner a {
+          color: #9e1b34;
+          font-weight: normal;
+          text-decoration: underline; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\0000356}}
+    .html #tu-global-alert-wrapper.tu-global-alert-active {
+      display: block;
+      opacity: 1;
+      -webkit-transition: opacity .5s;
+      -moz-transition: opacity .5s;
+      -o-transition: opacity .5s;
+      -ms-transition: opacity .5s;
+      transition: opacity .5s; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\0000364}}
+      .html #tu-global-alert-wrapper.tu-global-alert-active .tu-global-alert .tu-global-alert-inner {
+        opacity: 1;
+        -webkit-transition: opacity .5s;
+        -moz-transition: opacity .5s;
+        -o-transition: opacity .5s;
+        -ms-transition: opacity .5s;
+        transition: opacity .5s; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\0000377}}
+  .html #tu-global-alert-button {
+    position: absolute;
+    top: -3.33333em;
+    left: 0;
+    float: left;
+    width: 100%;
+    height: 3.33333em;
+    background: #F1D30F;
+    background-image: repeating-linear-gradient(-45deg, transparent, transparent 35px, rgba(255, 255, 255, 0.25) 0, rgba(255, 255, 255, 0.25) 70px); }
+    @media (min-width: 48.75em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\0000377}}
+      .html #tu-global-alert-button {
+        display: block;
+        position: static;
+        width: 10%;
+        height: 100%;
+        background: none; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\0000394}}
+    .html #tu-global-alert-button a,
+    .html #tu-global-alert-button a:link {
+      display: block;
+      width: 100%;
+      height: 100%;
+      padding: 0;
+      background-color: none;
+      border-right: 1px solid #dddddd;
+      box-shadow: inset -1px 0 0 #ffffff;
+      -webkit-transition: all .5s;
+      -moz-transition: all .5s;
+      -o-transition: all .5s;
+      -ms-transition: all .5s;
+      transition: all .5s; }
+      @media (min-width: 48.75em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\0000394}}
+        .html #tu-global-alert-button a,
+        .html #tu-global-alert-button a:link {
+          border-right: none;
+          border-left: 1px solid #dddddd;
+          box-shadow: inset 1px 0 0 #ffffff; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003113}}
+    .html #tu-global-alert-button .tu-global-alert-button-inner-wrapper {
+      width: 6.8em;
+      margin: 0 auto; }
+      @media (min-width: 48.75em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003113}}
+        .html #tu-global-alert-button .tu-global-alert-button-inner-wrapper {
+          width: 100%; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003120}}
+    .html #tu-global-alert-button .tu-global-alert-button-icon {
+      text-indent: -7142.85714em;
+      overflow: hidden;
+      width: 1.6em;
+      height: 3.33333em;
+      margin: 0 auto;
+      float: left;
+      background: url("https://assets.temple.edu/sites/assets/files/images/svg/alert-message-icon.svg") no-repeat -0.07143em 1em;
+      background-size: 3.28571em; }
+      @media (min-width: 48.75em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003120}}
+        .html #tu-global-alert-button .tu-global-alert-button-icon {
+          float: none; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003131}}
+    .html #tu-global-alert-button .tu-global-alert-button-text {
+      position: relative;
+      font-family: 'bebas_neueregular';
+      font-weight: normal;
+      -webkit-font-smoothing: antialiased;
+      letter-spacing: 0;
+      letter-spacing: .03em;
+      color: #9e1b34;
+      font-size: 1.14286em;
+      width: 4.23529em;
+      float: left;
+      margin: 0.83333em 0 0 0.27778em; }
+      @media (min-width: 48.75em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003131}}
+        .html #tu-global-alert-button .tu-global-alert-button-text {
+          display: none; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003140}}
+      .html #tu-global-alert-button .tu-global-alert-button-text::before {
+        content: "Show Alert";
+        position: absolute;
+        top: 0;
+        left: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003149}}
+    .html #tu-global-alert-button.tu-global-alert-active a,
+    .html #tu-global-alert-button.tu-global-alert-active a:link {
+      width: 100%;
+      background-color: #444444;
+      box-shadow: inset 0 0 0.64286em #111111; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003154}}
+    .html #tu-global-alert-button.tu-global-alert-active .tu-global-alert-button-icon {
+      background: url("https://assets.temple.edu/sites/assets/files/images/svg/alert-message-icon.svg") no-repeat -1.71429em 1em;
+      background-size: 3.28571em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003158}}
+    .html #tu-global-alert-button.tu-global-alert-active .tu-global-alert-button-text {
+      color: #F0B81C; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003160}}
+      .html #tu-global-alert-button.tu-global-alert-active .tu-global-alert-button-text::before {
+        content: "Hide Alert"; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003169}}
+  .html .tu-global-header-wrapper {
+    background: #ffffff; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003171}}
+    .html .tu-global-header-wrapper .tu-global-header-inner-wrapper {
+      border-bottom: 1px solid #dddddd;
+      background: #f1f1f1;
+      position: relative;
+      z-index: 300; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003176}}
+      .html .tu-global-header-wrapper .tu-global-header-inner-wrapper.tu-global-header-inner-alert-wrapper {
+        margin-top: 40px; }
+        @media (min-width: 48.75em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003176}}
+          .html .tu-global-header-wrapper .tu-global-header-inner-wrapper.tu-global-header-inner-alert-wrapper {
+            margin-top: 0; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003180}}
+      .html .tu-global-header-wrapper .tu-global-header-inner-wrapper .tu-global-header {
+        margin-bottom: 0;
+        max-height: 3.35714em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003192}}
+  .html .tu-global-header-inner-wrapper .tu-global-header-first {
+    padding: 1em 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003194}}
+    .html .tu-global-header-inner-wrapper .tu-global-header-first a {
+      display: block;
+      width: auto;
+      height: 1.13333em;
+      max-width: 16.5em;
+      text-indent: -10000em;
+      overflow: hidden;
+      background: url("https://assets.temple.edu/sites/assets/files/images/svg/temple-university-logo.svg") no-repeat left top;
+      background-size: 100%;
+      margin-left: 4%;
+      -ms-interpolation-mode: bicubic;
+      image-rendering: -moz-crisp-edges; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/partials\/_mixins\.scss}line{font-family:\00003353}}
+      .html .tu-global-header-inner-wrapper .tu-global-header-first a:focus {
+        color: #387397;
+        background-color: none;
+        outline: #aaaaaa dotted thin; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/partials\/_mixins\.scss}line{font-family:\00003358}}
+      .html .tu-global-header-inner-wrapper .tu-global-header-first a:focus:active {
+        color: #387397;
+        background-color: none;
+        outline: #aaaaaa dotted thin; }
+      @media (min-width: 22.5em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003194}}
+        .html .tu-global-header-inner-wrapper .tu-global-header-first a {
+          height: 1.26667em;
+          background: url("https://assets.temple.edu/sites/assets/files/images/svg/temple-university-logo.svg") no-repeat left top; } }
+      @media (min-width: 48.75em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003194}}
+        .html .tu-global-header-inner-wrapper .tu-global-header-first a {
+          margin-left: 0; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003218}}
+  .html .tu-global-header-inner-wrapper .tu-global-header-second-inner-wrapper {
+    float: right; }
+    @media (min-width: 48.75em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003218}}
+      .html .tu-global-header-inner-wrapper .tu-global-header-second-inner-wrapper {
+        width: 100%; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003228}}
+  .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner #tu-global-utility-menu-button a {
+    position: relative;
+    top: 0.86667em;
+    left: 0.6em;
+    display: block;
+    width: 1.53333em;
+    height: 1.53333em;
+    background: url("https://assets.temple.edu/sites/assets/files/images/svg/header-utility-icons.svg") no-repeat -3.33333em center;
+    cursor: pointer; }
+    @media (min-width: 22.5em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003228}}
+      .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner #tu-global-utility-menu-button a {
+        left: 1.2em; } }
+    @media (min-width: 48.75em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003228}}
+      .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner #tu-global-utility-menu-button a {
+        display: none; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003240}}
+  .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav {
+    position: static;
+    float: left;
+    clear: none;
+    width: 2.86667em;
+    height: 3.13333em;
+    border-right: 1px solid #dddddd;
+    box-shadow: inset -1px 0 0 #ffffff; }
+    @media (min-width: 22.5em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003240}}
+      .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav {
+        width: 3.8em; } }
+    @media (min-width: 48.75em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003240}}
+      .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav {
+        position: static;
+        float: left;
+        clear: none;
+        width: 67%;
+        height: auto;
+        border: none;
+        box-shadow: none; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003258}}
+    .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul, .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav li {
+      display: block;
+      padding: 0;
+      margin: 0;
+      width: auto;
+      list-style: none;
+      float: left;
+      overflow: hidden; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003267}}
+    .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul {
+      position: absolute;
+      top: 3.91667em;
+      left: 0;
+      font-family: 'droid_sansregular';
+      font-weight: normal;
+      -webkit-font-smoothing: antialiased;
+      letter-spacing: 0;
+      font-weight: 700;
+      font-size: 0.78571em;
+      line-height: 1.5em;
+      background: #444444;
+      width: 100%;
+      padding: 0;
+      margin: 0;
+      float: none;
+      z-index: 100;
+      border: none;
+      box-shadow: none;
+      opacity: 0;
+      visibility: hidden; }
+      @media (min-width: 48.75em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003267}}
+        .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul {
+          position: static;
+          float: right;
+          width: auto;
+          font-family: 'droid_sansregular';
+          font-weight: normal;
+          -webkit-font-smoothing: antialiased;
+          letter-spacing: 0;
+          font-size: 0.71429em;
+          letter-spacing: .05em;
+          background: none;
+          overflow: hidden;
+          opacity: 1;
+          visibility: visible; } }
+      @media (min-width: 58.75em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003267}}
+        .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul {
+          font-size: 0.78571em; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003297}}
+      .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul li {
+        float: none;
+        width: 100%;
+        border-bottom: 1px solid #666666;
+        font-size: inherit;
+        line-height: inherit; }
+        @media (min-width: 48.75em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003297}}
+          .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul li {
+            float: left;
+            width: auto;
+            border-bottom: none; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003310}}
+      .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul li a,
+      .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul li a:link {
+        font-family: 'droid_sansregular';
+        font-weight: normal;
+        -webkit-font-smoothing: antialiased;
+        letter-spacing: 0;
+        font-weight: 700;
+        color: #ffffff;
+        border: none;
+        box-shadow: none;
+        display: block;
+        width: 94%;
+        background: url("https://assets.temple.edu/sites/assets/files/images/svg/list-item-arrow.svg") no-repeat right center;
+        padding: 1.5em 0;
+        margin: 0 auto;
+        text-decoration: none;
+        text-transform: uppercase; }
+        @media (min-width: 48.75em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003310}}
+          .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul li a,
+          .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul li a:link {
+            font-family: 'droid_sansregular';
+            font-weight: normal;
+            -webkit-font-smoothing: antialiased;
+            letter-spacing: 0;
+            letter-spacing: 0;
+            color: #222222;
+            text-decoration: none;
+            text-align: center;
+            padding: 1.6em 1.5em;
+            border-left: 1px solid #dddddd;
+            box-shadow: inset 1px 0 0 #ffffff;
+            width: auto;
+            background: none;
+            margin: 0; } }
+        @media (min-width: 58.75em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003310}}
+          .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul li a,
+          .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul li a:link {
+            padding: 1.33333em 1.5em 1.5em; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003339}}
+      .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul .active-trail {
+        background: #222222; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003347}}
+      .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul li a:hover,
+      .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul li a:focus,
+      .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul li a:focus:active,
+      .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul .active-trail a:hover,
+      .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul .active-trail a:focus,
+      .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul .active-trail a:focus:active,
+      .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul .active-trail a,
+      .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul .active-trail a:link {
+        box-shadow: none;
+        text-decoration: none;
+        outline: #aaaaaa dotted thin; }
+        @media (min-width: 48.75em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003347}}
+          .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul li a:hover,
+          .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul li a:focus,
+          .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul li a:focus:active,
+          .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul .active-trail a:hover,
+          .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul .active-trail a:focus,
+          .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul .active-trail a:focus:active,
+          .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul .active-trail a,
+          .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul .active-trail a:link {
+            background: #eaeaea;
+            box-shadow: inset 0 0 0.64286em #cccccc; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003358}}
+  .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav.active {
+    background: #444444;
+    -webkit-transition: background-color .35s;
+    -moz-transition: background-color .35s;
+    -o-transition: background-color .35s;
+    -ms-transition: background-color .35s;
+    transition: background-color .35s; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003365}}
+    .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav.active > div {
+      background-position: -5.64286em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003366}}
+    .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav.active ul {
+      opacity: 1;
+      visibility: visible;
+      -webkit-transition: opacity .35s;
+      -moz-transition: opacity .35s;
+      -o-transition: opacity .35s;
+      -ms-transition: opacity .35s;
+      transition: opacity .35s; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003385}}
+  .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper {
+    position: static;
+    float: left;
+    clear: none;
+    overflow: visible; }
+    @media (min-width: 48.75em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003385}}
+      .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper {
+        position: relative;
+        width: 33%; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003395}}
+    .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch p {
+      margin: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003396}}
+    .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch > p, .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch input[type="submit"], .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch input[type="button"] {
+      display: none; }
+      @media (min-width: 48.75em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003396}}
+        .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch > p, .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch input[type="submit"], .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch input[type="button"] {
+          display: block; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003400}}
+    .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-actions {
+      position: absolute;
+      z-index: 101;
+      top: 0;
+      right: 2.86667em;
+      width: 2.86667em;
+      height: 3.13333em;
+      margin: 0;
+      padding: 0;
+      border-left: 1px solid #dddddd;
+      border-right: 1px solid #dddddd;
+      box-shadow: inset 1px 0 0 #ffffff, inset -1px 0 0 #ffffff; }
+      @media (min-width: 22.5em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003400}}
+        .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-actions {
+          width: 3.8em;
+          right: 3.8em; } }
+      @media (min-width: 48.75em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003400}}
+        .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-actions {
+          top: 1em;
+          right: 0.85714em;
+          width: auto;
+          height: auto;
+          cursor: pointer;
+          border: none;
+          box-shadow: none; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003425}}
+      .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-actions a, .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-actions input[type="submit"], .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-actions input[type="button"] {
+        width: 1.61538em;
+        height: 1.53846em;
+        background: url("https://assets.temple.edu/sites/assets/files/images/svg/header-utility-icons.svg") no-repeat 0 center;
+        background-size: 8.46154em auto;
+        text-indent: -7142.85714em;
+        white-space: nowrap;
+        overflow: hidden;
+        border: none;
+        font-size: 0.88462em;
+        margin: 1em auto 0; }
+        @media (min-width: 48.75em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003425}}
+          .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-actions a, .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-actions input[type="submit"], .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-actions input[type="button"] {
+            display: block;
+            padding: 0;
+            margin: 0; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003442}}
+      .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-actions a {
+        display: block;
+        cursor: pointer; }
+        @media (min-width: 48.75em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003442}}
+          .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-actions a {
+            display: none; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/partials\/_mixins\.scss}line{font-family:\00003353}}
+      .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-actions input[type="submit"]:focus, .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-actions input[type="button"]:focus, .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-actions input[type="text"]:focus {
+        color: #070707;
+        background-color: none;
+        outline: #aaaaaa dotted thin; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/partials\/_mixins\.scss}line{font-family:\00003358}}
+      .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-actions input[type="submit"]:focus:active, .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-actions input[type="button"]:focus:active, .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-actions input[type="text"]:focus:active {
+        color: #070707;
+        background-color: none;
+        outline: #aaaaaa dotted thin; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003450}}
+      .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-actions input[type="submit"] {
+        position: static; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003452}}
+    .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-item-search-block-form {
+      position: absolute;
+      z-index: 100;
+      width: 100%;
+      top: 3.13333em;
+      left: 0;
+      padding: 1.71429em 0;
+      background: #444444;
+      border: 0;
+      border-bottom: 1px solid #000000;
+      opacity: 0;
+      visibility: hidden; }
+      @media (min-width: 48.75em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003452}}
+        .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-item-search-block-form {
+          position: relative;
+          padding: 0;
+          top: 0;
+          right: 0;
+          margin-right: 0;
+          background: none;
+          border: none;
+          margin-left: 0;
+          opacity: 1;
+          visibility: visible; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003476}}
+      .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-item-search-block-form input[type="text"] {
+        font-family: 'droid_sansregular';
+        font-weight: normal;
+        -webkit-font-smoothing: antialiased;
+        letter-spacing: 0;
+        -webkit-font-smoothing: subpixel-antialiased;
+        display: block;
+        width: 94%;
+        margin: 0 auto 0;
+        padding: 1px 3.42857em 0 1em;
+        height: 3.64286em;
+        border-radius: 0.28571em; }
+        @media (min-width: 48.75em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003476}}
+          .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-item-search-block-form input[type="text"] {
+            position: relative;
+            z-index: 2;
+            float: right;
+            line-height: 1em;
+            width: 100%;
+            font-size: 0.78571em;
+            background: #fcfcfc;
+            border: 1px solid #dddddd;
+            border-top: none;
+            border-bottom: none;
+            color: #777777;
+            height: 4.24em;
+            border-radius: 0;
+            margin: 0;
+            letter-spacing: .03em; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003502}}
+        .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-item-search-block-form input[type="text"].inactive {
+          color: #aaaaaa;
+          font-style: italic; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003507}}
+      .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-item-search-block-form a {
+        display: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003511}}
+    .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch.active .form-actions {
+      background: #444444;
+      -webkit-transition: background-color .35s;
+      -moz-transition: background-color .35s;
+      -o-transition: background-color .35s;
+      -ms-transition: background-color .35s;
+      transition: background-color .35s; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003518}}
+      .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch.active .form-actions label {
+        background-position: -1.71429em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003522}}
+    .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch.active .form-item-search-block-form {
+      opacity: 1;
+      visibility: visible;
+      -webkit-transition: opacity .35s;
+      -moz-transition: opacity .35s;
+      -o-transition: opacity .35s;
+      -ms-transition: opacity .35s;
+      transition: opacity .35s; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003540}}
+  .html #tu-global-header-wrapper.tu-global-with-alert .tu-global-header-inner-wrapper {
+    margin-top: 3.125em; }
+    @media (min-width: 48.75em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003540}}
+      .html #tu-global-header-wrapper.tu-global-with-alert .tu-global-header-inner-wrapper {
+        margin-top: 0; } }
+    @media (min-width: 48.75em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003545}}
+      .html #tu-global-header-wrapper.tu-global-with-alert .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav {
+        width: 58%; } }
+    @media (min-width: 48.75em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003549}}
+      .html #tu-global-header-wrapper.tu-global-with-alert .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul li a,
+      .html #tu-global-header-wrapper.tu-global-with-alert .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul li a:link {
+        padding: 1.6em 1.1em; } }
+    @media (min-width: 55em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003549}}
+      .html #tu-global-header-wrapper.tu-global-with-alert .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul li a,
+      .html #tu-global-header-wrapper.tu-global-with-alert .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul li a:link {
+        padding: 1.6em 1.3em; } }
+    @media (min-width: 58.75em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003549}}
+      .html #tu-global-header-wrapper.tu-global-with-alert .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul li a,
+      .html #tu-global-header-wrapper.tu-global-with-alert .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul li a:link {
+        padding: 1.5em 1.3em 1.3em; } }
+    @media (min-width: 60em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003549}}
+      .html #tu-global-header-wrapper.tu-global-with-alert .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul li a,
+      .html #tu-global-header-wrapper.tu-global-with-alert .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul li a:link {
+        padding: 1.5em 1.4em 1.3em; } }
+    @media (min-width: 48.75em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003557}}
+      .html #tu-global-header-wrapper.tu-global-with-alert .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper {
+        width: 32%; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003567}}
+  .html .tu-global-branding {
+    position: relative;
+    margin: 0 auto; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003570}}
+    .html .tu-global-branding .tu-global-site-name {
+      font-family: 'Gotham XNarrow SSm A', 'Gotham XNarrow SSm B', 'roboto_condensedregular';
+      font-weight: normal;
+      -webkit-font-smoothing: antialiased;
+      letter-spacing: 0;
+      font-size: 2.8em;
+      text-transform: none;
+      line-height: 1em;
+      margin: 0.775em 0;
+      padding: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003580}}
+      .html .tu-global-branding .tu-global-site-name a,
+      .html .tu-global-branding .tu-global-site-name a:link,
+      .html .tu-global-branding .tu-global-site-name a:hover {
+        display: inline-block;
+        font-weight: normal;
+        line-height: 1.14286em;
+        color: #070707;
+        text-decoration: none;
+        padding: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/partials\/_mixins\.scss}line{font-family:\00003353}}
+        .html .tu-global-branding .tu-global-site-name a:focus,
+        .html .tu-global-branding .tu-global-site-name a:link:focus,
+        .html .tu-global-branding .tu-global-site-name a:hover:focus {
+          color: #222222;
+          background-color: none;
+          outline: #aaaaaa dotted thin; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/partials\/_mixins\.scss}line{font-family:\00003358}}
+        .html .tu-global-branding .tu-global-site-name a:focus:active,
+        .html .tu-global-branding .tu-global-site-name a:link:focus:active,
+        .html .tu-global-branding .tu-global-site-name a:hover:focus:active {
+          color: #222222;
+          background-color: none;
+          outline: #aaaaaa dotted thin; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003590}}
+    .html .tu-global-branding .tu-global-site-logo {
+      font-size: 2.57143em;
+      width: 7.14286em;
+      height: 1.57143em;
+      margin: 1.575em auto 1.5em; }
+      @media (min-width: 35em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003590}}
+        .html .tu-global-branding .tu-global-site-logo {
+          float: left;
+          clear: left;
+          margin: 1.575em 0 1.5em; } }
+      @media (min-width: 62.5em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003590}}
+        .html .tu-global-branding .tu-global-site-logo {
+          padding: 0 0 0 .25em; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003603}}
+      .html .tu-global-branding .tu-global-site-logo a,
+      .html .tu-global-branding .tu-global-site-logo a:link,
+      .html .tu-global-branding .tu-global-site-logo a:hover {
+        overflow: hidden;
+        text-indent: -100000em;
+        width: 100%;
+        height: 100%;
+        background: url("https://assets.temple.edu/sites/assets/files/images/svg/temple-university-main-logo.svg") no-repeat left top; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003611}}
+    .html .tu-global-branding .tu-global-support-button {
+      font-family: 'droid_sansregular';
+      font-weight: normal;
+      -webkit-font-smoothing: antialiased;
+      letter-spacing: 0;
+      font-weight: 700;
+      -webkit-font-smoothing: subpixel-antialiased;
+      font-size: 1.07143em;
+      text-transform: uppercase;
+      text-align: center;
+      margin: 0 0 3em; }
+      @media (min-width: 35em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003611}}
+        .html .tu-global-branding .tu-global-support-button {
+          float: right;
+          margin: 4.15em .55em 0 0; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003623}}
+      .html .tu-global-branding .tu-global-support-button a,
+      .html .tu-global-branding .tu-global-support-button a:link {
+        position: relative;
+        z-index: 2;
+        display: block;
+        text-decoration: none;
+        color: #ffffff;
+        width: 12.5em;
+        height: 2.286em;
+        padding: .6em .7em .7em;
+        padding-left: 2.7em;
+        margin: 0 auto;
+        background: #3E92C4;
+        -webkit-transition: background-color .35s;
+        -moz-transition: background-color .35s;
+        -o-transition: background-color .35s;
+        -ms-transition: background-color .35s;
+        transition: background-color .35s; }
+        @media (min-width: 35em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003623}}
+          .html .tu-global-branding .tu-global-support-button a,
+          .html .tu-global-branding .tu-global-support-button a:link {
+            margin: 0; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003642}}
+        .html .tu-global-branding .tu-global-support-button a:hover, .html .tu-global-branding .tu-global-support-button a:focus,
+        .html .tu-global-branding .tu-global-support-button a:link:hover,
+        .html .tu-global-branding .tu-global-support-button a:link:focus {
+          background: #30759f; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_header\.scss}line{font-family:\00003643}}
+        .html .tu-global-branding .tu-global-support-button a::after,
+        .html .tu-global-branding .tu-global-support-button a:link::after {
+          position: absolute;
+          z-index: 3;
+          top: 0;
+          left: 0;
+          content: '';
+          width: auto;
+          height: 2.6em;
+          background: url("https://assets.temple.edu/sites/assets/files/images/svg/temple-t-icon.svg") no-repeat center 0.55em #9e1b34;
+          background-size: 1.1em auto;
+          border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) white rgba(0, 0, 0, 0);
+          border-style: solid;
+          border-width: 0 1.1em .75em 1.1em; }
+
+/*******************************************************************************
+**
+** FOOTER STYLES
+**
+******************************************************************************/
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\000038}}
+.html .tu-global-footer-wrapper {
+  background-color: #000000;
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+  /*.zone-departments-wrapper, // omega 3
+  .l-postscript-fourth-wrapper {
+  	position:relative;
+  	padding:em(8px) 0 0;
+  	background:$char_30;
+  	@include breakpoint($tab_640) {
+  		padding: em(7px) 0 em(3px);
+  	}
+  	.zone-departments, // omega 3
+  	.l-postscript-fourth {
+  		margin-bottom:0;
+  		h2 {
+  			@include vert_rhythm(18px, $base_height);
+  			background: url("https://assets.temple.edu/sites/assets/files/images/svg/white-menu-options-icon.svg") no-repeat right center;
+  			float:none;
+  			margin-bottom:.3em;
+  			padding:0;
+  			cursor:pointer;
+  			@include breakpoint($tab_640) {
+  				background:none;
+  				margin:0;
+  				float:left;
+  				cursor:default;
+  			}
+  		}
+  		ul, li {
+  			float:left;
+  			list-style:none;
+  		}
+  		ul {
+  			display:none;
+  			width:100%;
+  			margin:0 0 em($base_font);
+  			padding:0;
+  			@include border_maker($char_44);
+  			@include breakpoint($tab_640) {
+  				width:auto;
+  				display:block;
+  				margin:0;
+  				border:none;
+  			}
+  			li {
+  				float:none;
+  				padding:0;
+  				margin-left:0;
+  				@include breakpoint($tab_640) {
+  					float:left;
+  					margin:0 0 0 em($base_font);
+  				}
+  				a {
+  					@include vert_rhythm($sub_font, $sub_height);
+  					display:block;
+  					color: white;
+  					text-decoration: none;
+  					text-align:center;
+  					margin:0;
+  					padding:em(16px) 0;
+  					border-bottom:1px solid $char_44;
+  					@include breakpoint($tab_640) {
+  						padding:em(7px) 0;
+  						border-bottom:none;
+  					}
+  				}
+  			}
+  			.last a {border-bottom:none;}
+  		}
+  	}
+  }*/ }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\0000313}}
+  .html .tu-global-footer-wrapper p, .html .tu-global-footer-wrapper a {
+    font-size: 0.85714em;
+    line-height: 1.28571em;
+    margin: 0 0 1.75em;
+    -webkit-font-smoothing: antialiased;
+    color: #ffffff; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\0000318}}
+  .html .tu-global-footer-wrapper p {
+    line-height: 1.5em;
+    margin-bottom: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\0000322}}
+  .html .tu-global-footer-wrapper a {
+    text-decoration: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/partials\/_mixins\.scss}line{font-family:\00003353}}
+    .html .tu-global-footer-wrapper a:focus {
+      color: white;
+      background-color: none;
+      outline: #aaaaaa dotted thin; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/partials\/_mixins\.scss}line{font-family:\00003358}}
+    .html .tu-global-footer-wrapper a:focus:active {
+      color: white;
+      background-color: none;
+      outline: #aaaaaa dotted thin; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\0000327}}
+  .html .tu-global-footer-wrapper h2, .html .tu-global-footer-wrapper h3 {
+    font-family: 'droid_sansregular';
+    font-weight: normal;
+    -webkit-font-smoothing: antialiased;
+    letter-spacing: 0;
+    font-weight: 700;
+    text-transform: none;
+    line-height: 1.5em;
+    color: #ffffff; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\0000333}}
+  .html .tu-global-footer-wrapper h2 {
+    font-size: 1em;
+    line-height: 1em;
+    margin: 0 0 1.5em;
+    margin-bottom: 0.21429em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\0000337}}
+  .html .tu-global-footer-wrapper h3 {
+    font-size: 1.42857em;
+    line-height: 1em;
+    margin: 0 0 1.05em;
+    margin-bottom: 0.14286em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\0000341}}
+  .html .tu-global-footer-wrapper ul li {
+    list-style-type: none;
+    list-style-image: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\0000345}}
+  .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper {
+    position: relative;
+    padding: 2.5em 0 0;
+    border-top: 1.42857em solid #303030;
+    background-color: #222222; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\0000351}}
+    .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner,
+    .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper .tu-global-postscript-inner {
+      margin-bottom: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\0000352}}
+    .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner {
+      padding-bottom: 2.57143em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\0000355}}
+      .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-first,
+      .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-second {
+        margin-bottom: 2.57143em; }
+      @media (min-width: 38.75em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\0000356}}
+        .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-first {
+          margin-bottom: 0; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\0000360}}
+      .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-first .tu-global-postscript-first-inner {
+        margin-left: 20%; }
+        @media (min-width: 30em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\0000360}}
+          .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-first .tu-global-postscript-first-inner {
+            margin-left: 0; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\0000368}}
+        .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-first .tu-global-postscript-first-inner .tu-global-address-wrapper img {
+          margin-left: -2.85714em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\0000369}}
+        .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-first .tu-global-postscript-first-inner .tu-global-address-wrapper p {
+          margin: 0.57143em 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\0000370}}
+        .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-first .tu-global-postscript-first-inner .tu-global-address-wrapper a {
+          font-family: 'droid_sansregular';
+          font-weight: normal;
+          -webkit-font-smoothing: antialiased;
+          letter-spacing: 0;
+          font-weight: 700; }
+      @media (min-width: 30em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\0000374}}
+        .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-second {
+          margin-bottom: 0; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\0000378}}
+      .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-second .tu-global-postscript-second-inner {
+        margin-left: 20%; }
+        @media (min-width: 30em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\0000378}}
+          .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-second .tu-global-postscript-second-inner {
+            margin-left: 0; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\0000384}}
+        .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-second .tu-global-postscript-second-inner .tu-global-directory-wrapper ul {
+          padding: 0;
+          margin: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\0000387}}
+          .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-second .tu-global-postscript-second-inner .tu-global-directory-wrapper ul li {
+            list-style: none;
+            padding: 0 0 0 2em;
+            background: url("https://assets.temple.edu/sites/assets/files/images/svg/footer-icon-set.svg") no-repeat left top transparent;
+            background-position: 0 0.14286em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\0000392}}
+            .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-second .tu-global-postscript-second-inner .tu-global-directory-wrapper ul li a {
+              display: inline-block;
+              color: #ffffff;
+              line-height: 1.42857em;
+              margin: 0.35714em 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\0000399}}
+          .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-second .tu-global-postscript-second-inner .tu-global-directory-wrapper ul .first {
+            background-position: left -3em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003100}}
+          .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-second .tu-global-postscript-second-inner .tu-global-directory-wrapper ul .last {
+            background-position: left -1.35714em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003107}}
+      .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul, .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper li {
+        margin: 0;
+        padding: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003111}}
+      .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul {
+        overflow: hidden;
+        *zoom: 1;
+        width: 20.78571em;
+        margin: 0 auto; }
+        @media (min-width: 38.75em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003111}}
+          .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul {
+            width: auto;
+            margin: 0 0 0 38%; } }
+        @media (min-width: 52.5em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003111}}
+          .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul {
+            margin: 0; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003122}}
+        .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li {
+          text-indent: -7142.85714em;
+          overflow: hidden;
+          margin: 0 0 0.57143em 1.42857em;
+          float: left; }
+          @media (min-width: 38.75em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003122}}
+            .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li {
+              margin: 0 0 2em 1.85714em; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003130}}
+          .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li a {
+            display: block;
+            width: 3.57143em;
+            height: 3.57143em;
+            background: url("https://assets.temple.edu/sites/assets/files/images/svg/white-social-media-icons.svg") no-repeat transparent;
+            margin-bottom: 0;
+            border: 0.23214em solid #444444;
+            background-color: #000000;
+            border-radius: 10000em;
+            -webkit-transition: background-color .35s, border .35s;
+            -moz-transition: background-color .35s, border .35s;
+            -o-transition: background-color .35s, border .35s;
+            -ms-transition: background-color .35s, border .35s;
+            transition: background-color .35s, border .35s; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003145}}
+            .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li a:focus, .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li a:focus:active {
+              border: 1px dotted #aaaaaa; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003147}}
+          .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-google-link {
+            background-position: 0.25em 0.25em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003150}}
+            .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-google-link:hover, .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-google-link:focus {
+              border: 0.21429em solid #e76251;
+              background-color: #be3e2e; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003155}}
+          .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-facebook-link {
+            background-position: -2.5em 0.41667em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003158}}
+            .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-facebook-link:hover, .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-facebook-link:focus {
+              border: 0.21429em solid #507ad1;
+              background-color: #3c5a99; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003163}}
+          .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-twitter-link {
+            background-position: -5.58333em 0.25em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003166}}
+            .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-twitter-link:hover, .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-twitter-link:focus {
+              border: 0.21429em solid #95ccf3;
+              background-color: #5fa9dd; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003171}}
+          .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-linkedin-link {
+            background-position: 0.16667em -2.83333em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003174}}
+            .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-linkedin-link:hover, .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-linkedin-link:focus {
+              border: 0.21429em solid #05abff;
+              background-color: #007ab8; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003179}}
+          .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-youtube-link {
+            background-position: -2.66667em -2.75em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003182}}
+            .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-youtube-link:hover, .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-youtube-link:focus {
+              border: 0.21429em solid #fa645f;
+              background-color: #e52d27; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003187}}
+          .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-pinterest-link {
+            background-position: -5.75em -2.58333em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003190}}
+            .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-pinterest-link:hover, .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-pinterest-link:focus {
+              border: 0.21429em solid #f3454c;
+              background-color: #cb2027; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003195}}
+          .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-flickr-link {
+            background-position: 0.16667em -5.58333em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003198}}
+            .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-flickr-link:hover, .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-flickr-link:focus {
+              border: 0.21429em solid #fdb7d7;
+              background-color: #f078ae; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003203}}
+          .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-instagram-link {
+            background-position: -2.66667em -5.66667em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003206}}
+            .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-instagram-link:hover, .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-instagram-link:focus {
+              border: 0.21429em solid #d7bb8d;
+              background-color: #b29566; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003211}}
+          .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-rss-link {
+            background-position: -5.66667em -5.58333em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003214}}
+            .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-rss-link:hover, .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-rss-link:focus {
+              border: 0.21429em solid #ffce96;
+              background-color: #f9aa4f; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003220}}
+        .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul .first {
+          margin-left: 0; }
+        @media (min-width: 38.75em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003223}}
+          .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul .tu-global-leaf-3,
+          .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul .tu-global-leaf-5 {
+            clear: both;
+            margin-left: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003227}}
+          .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul .tu-global-leaf-4 {
+            clear: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003229}}
+          .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul .tu-global-leaf-5,
+          .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul .tu-global-leaf-6 {
+            margin-bottom: 0; } }
+        @media (min-width: 52.5em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003233}}
+          .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul .tu-global-leaf-3,
+          .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul .tu-global-leaf-5 {
+            clear: none;
+            margin-left: 1.85714em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003237}}
+          .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul .tu-global-leaf-4 {
+            margin-bottom: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003238}}
+          .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul .first, .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul .tu-global-leaf-4 {
+            clear: both;
+            margin-left: 0; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003316}}
+  .html .tu-global-footer-wrapper .tu-global-footer-inner-wrapper {
+    padding: 1.42857em 0 0;
+    -webkit-font-smoothing: subpixel-antialiased;
+    border-top: 0.14286em solid #303030; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003320}}
+    .html .tu-global-footer-wrapper .tu-global-footer-inner-wrapper .tu-global-footer {
+      margin-bottom: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003321}}
+    .html .tu-global-footer-wrapper .tu-global-footer-inner-wrapper .tu-global-quick-links-wrapper {
+      overflow: hidden;
+      *zoom: 1; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003323}}
+      .html .tu-global-footer-wrapper .tu-global-footer-inner-wrapper .tu-global-quick-links-wrapper ul {
+        margin: 0;
+        padding: 0;
+        letter-spacing: .03em;
+        border: 1px solid #222222; }
+        @media (min-width: 40em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003323}}
+          .html .tu-global-footer-wrapper .tu-global-footer-inner-wrapper .tu-global-quick-links-wrapper ul {
+            border: none; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003329}}
+        .html .tu-global-footer-wrapper .tu-global-footer-inner-wrapper .tu-global-quick-links-wrapper ul li {
+          display: inline;
+          float: none;
+          margin: 0;
+          padding: 0;
+          list-style-type: none;
+          list-style-image: none; }
+          @media (min-width: 40em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003329}}
+            .html .tu-global-footer-wrapper .tu-global-footer-inner-wrapper .tu-global-quick-links-wrapper ul li {
+              float: left;
+              margin: 0 1.5em 0 0;
+              padding: 0; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003341}}
+          .html .tu-global-footer-wrapper .tu-global-footer-inner-wrapper .tu-global-quick-links-wrapper ul li a {
+            font-size: 0.85714em;
+            line-height: 1.28571em;
+            margin: 0 0 1.75em;
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+            padding: 1.21429em 0 1.14286em;
+            border-bottom: 1px solid #222222;
+            display: block; }
+            @media (min-width: 40em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003341}}
+              .html .tu-global-footer-wrapper .tu-global-footer-inner-wrapper .tu-global-quick-links-wrapper ul li a {
+                font-size: 0.78571em;
+                line-height: 1.28571em;
+                margin: 0 0 1.90909em;
+                text-align: left;
+                margin: 0;
+                padding: 0;
+                border: none;
+                display: inline; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003360}}
+        .html .tu-global-footer-wrapper .tu-global-footer-inner-wrapper .tu-global-quick-links-wrapper ul .first {
+          margin-left: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003363}}
+        .html .tu-global-footer-wrapper .tu-global-footer-inner-wrapper .tu-global-quick-links-wrapper ul .last a {
+          border: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003369}}
+    .html .tu-global-footer-wrapper .tu-global-footer-inner-wrapper p {
+      font-family: Verdana, Geneva, sans-serif;
+      font-size: 0.78571em;
+      line-height: 1.28571em;
+      margin: 0 0 1.90909em;
+      text-align: center;
+      margin: 1.42857em 0; }
+      @media (min-width: 40em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_footer\.scss}line{font-family:\00003369}}
+        .html .tu-global-footer-wrapper .tu-global-footer-inner-wrapper p {
+          text-align: left; } }
+
+/*******************************************************************************
+**
+** OLD BROWSER SUPPORT
+**
+******************************************************************************/
+/*==========NO SVG SUPPORT==========*/
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\0000316}}
+.html.tu-global-no-svg .tu-global-header-inner-wrapper .tu-global-header-first a,
+.html.tu-global-ie .tu-global-header-inner-wrapper .tu-global-header-first a {
+  background: url("https://assets.temple.edu/sites/assets/files/images/png/temple-university-logo.png") no-repeat left top;
+  background-size: auto 100%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\0000329}}
+.html.tu-global-no-svg .tu-global-branding .tu-global-site-logo a,
+.html.tu-global-no-svg .tu-global-branding .tu-global-site-logo a:link,
+.html.tu-global-no-svg .tu-global-branding .tu-global-site-logo a:hover,
+.html.tu-global-ie .tu-global-branding .tu-global-site-logo a,
+.html.tu-global-ie .tu-global-branding .tu-global-site-logo a:link,
+.html.tu-global-ie .tu-global-branding .tu-global-site-logo a:hover {
+  background: url("https://assets.temple.edu/sites/assets/files/images/png/temple-university-main-logo.png") no-repeat left top transparent;
+  background-size: 6.85em auto; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\0000335}}
+.html.tu-global-no-svg .tu-global-branding .tu-global-support-button::after,
+.html.tu-global-ie .tu-global-branding .tu-global-support-button::after {
+  background: url("https://assets.temple.edu/sites/assets/files/images/png/temple-t-icon.png") no-repeat center 0.55em #9e1b34;
+  background-size: 1.1em auto; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\0000344}}
+.html.tu-global-no-svg {
+  /*==========ALERT MESSAGING SYSTEM==========*/ }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\0000352}}
+  .html.tu-global-no-svg #tu-global-alert-wrapper .tu-global-alert .tu-global-alert-icon {
+    background: url("https://assets.temple.edu/sites/assets/files/images/png/alert-message-icon.png") no-repeat 0 center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\0000359}}
+  .html.tu-global-no-svg #tu-global-leaf-alert .tu-global-leaf-alert-icon {
+    background: url("https://assets.temple.edu/sites/assets/files/images/png/alert-message-icon.png") no-repeat left 0.78571em;
+    background-size: 3.85714em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\0000367}}
+  .html.tu-global-no-svg #tu-global-leaf-alert.tu-global-alert-new .tu-global-leaf-alert-icon,
+  .html.tu-global-no-svg #tu-global-leaf-alert.tu-global-alert-viewed .tu-global-leaf-alert-icon,
+  .html.tu-global-no-svg #tu-global-leaf-alert.tu-global-alert-active .tu-global-leaf-alert-icon {
+    background: url("https://assets.temple.edu/sites/assets/files/images/png/alert-message-icon.png") no-repeat -2.07143em 0.78571em;
+    background-size: 3.85714em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\0000373}}
+  .html.tu-global-no-svg #tu-global-leaf-alert.tu-global-alert-deactivated .tu-global-leaf-alert-icon {
+    background: url("https://assets.temple.edu/sites/assets/files/images/png/alert-message-icon.png") no-repeat left 0.78571em;
+    background-size: 3.85714em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\0000383}}
+  .html.tu-global-no-svg .tu-global-header-inner-wrapper .l-header-second #tu-global-utility-menu-button a {
+    background: url("https://assets.temple.edu/sites/assets/files/images/png/header-utility-icons.png") no-repeat -3.42857em center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\0000386}}
+  .html.tu-global-no-svg .tu-global-header-inner-wrapper .l-header-second nav ul li a,
+  .html.tu-global-no-svg .tu-global-header-inner-wrapper .l-header-second nav ul li a:link {
+    background: url("https://assets.temple.edu/sites/assets/files/images/png/list-item-arrow.png") no-repeat right center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003102}}
+  .html.tu-global-no-svg .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-actions label,
+  .html.tu-global-no-svg .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-actions input[type="submit"],
+  .html.tu-global-no-svg .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-actions input[type="button"] {
+    background: url("https://assets.temple.edu/sites/assets/files/images/png/header-utility-icons.png") no-repeat 0 center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003105}}
+  .html.tu-global-no-svg .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-item-search-block-form input[type="text"] {
+    padding: 1em 4.28571em 0 1em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003119}}
+  .html.tu-global-no-svg .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-first .tu-global-address-wrapper {
+    background: url("https://assets.temple.edu/sites/assets/files/images/png/footer-location-icon.png") no-repeat left 1px transparent; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003120}}
+  .html.tu-global-no-svg .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-second .tu-global-directory-wrapper ul li a {
+    background: url("https://assets.temple.edu/sites/assets/files/images/png/footer-icon-set.png") no-repeat left top transparent; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003122}}
+  .html.tu-global-no-svg .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li a {
+    background: url("https://assets.temple.edu/sites/assets/files/images/png/footer-social-media-icons.png") no-repeat transparent; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003123}}
+  .html.tu-global-no-svg .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-google-link {
+    background-position: -1px 0px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003124}}
+  .html.tu-global-no-svg .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-facebook-link {
+    background-position: -3.07143em -1px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003125}}
+  .html.tu-global-no-svg .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-twitter-link {
+    background-position: -6em -1px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003126}}
+  .html.tu-global-no-svg .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-linkedin-link {
+    background-position: -0.14286em -3.07143em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003127}}
+  .html.tu-global-no-svg .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-youtube-link {
+    background-position: -3.07143em -3.07143em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003128}}
+  .html.tu-global-no-svg .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-pinterest-link {
+    background-position: -6em -3.07143em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003129}}
+  .html.tu-global-no-svg .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-flickr-link {
+    background-position: -1px -6em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003130}}
+  .html.tu-global-no-svg .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li .tu-global-footer-instagram-link {
+    background-position: -3.07143em -6em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003138}}
+.lt-ie9 .html {
+  /*==========SECOND HEADER REGION==========*/
+  /*=====BRANDING REGION=====*/ }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003147}}
+  .lt-ie9 .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner #tu-global-utility-menu-button {
+    display: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003148}}
+  .lt-ie9 .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav {
+    position: static;
+    float: left;
+    clear: none;
+    width: 60%;
+    height: auto;
+    border: none;
+    box-shadow: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003156}}
+    .lt-ie9 .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul {
+      position: static;
+      float: right;
+      width: auto;
+      font-family: 'droid_sansregular';
+      font-weight: normal;
+      -webkit-font-smoothing: antialiased;
+      letter-spacing: 0;
+      font-size: 0.78571em;
+      letter-spacing: .05em;
+      background: none;
+      overflow: hidden;
+      box-shadow: inset -1px 0 0 #ffffff;
+      opacity: 1;
+      visibility: visible; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003168}}
+      .lt-ie9 .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul li {
+        float: left;
+        width: auto;
+        border-bottom: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003174}}
+      .lt-ie9 .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul li a,
+      .lt-ie9 .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul li a:link {
+        font-family: 'droid_sansregular';
+        font-weight: normal;
+        -webkit-font-smoothing: antialiased;
+        letter-spacing: 0;
+        letter-spacing: 0;
+        color: #222222;
+        text-decoration: none;
+        text-align: center;
+        padding: 0.85714em 0.85714em;
+        border-left: 1px solid #dddddd;
+        box-shadow: inset 1px 0 0 #ffffff;
+        width: auto;
+        background: none;
+        margin: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003187}}
+      .lt-ie9 .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul .first {
+        display: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003195}}
+      .lt-ie9 .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul li a:hover,
+      .lt-ie9 .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul li a:focus,
+      .lt-ie9 .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul li a:focus:active,
+      .lt-ie9 .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul .active-trail a:hover,
+      .lt-ie9 .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul .active-trail a:focus,
+      .lt-ie9 .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul .active-trail a:focus:active,
+      .lt-ie9 .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul .active-trail a,
+      .lt-ie9 .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner nav ul .active-trail a:link {
+        background: #eaeaea;
+        box-shadow: inset 0 0 0.64286em #cccccc; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003210}}
+  .lt-ie9 .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper {
+    position: relative;
+    width: 40%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003214}}
+    .lt-ie9 .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch > p, .lt-ie9 .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch input[type="submit"], .lt-ie9 .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch input[type="button"] {
+      display: block; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003215}}
+    .lt-ie9 .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-actions {
+      top: 0.42857em;
+      right: 0.28571em;
+      margin: 0;
+      cursor: pointer;
+      padding: 0;
+      border: none;
+      box-shadow: none;
+      padding-right: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003224}}
+      .lt-ie9 .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-actions label, .lt-ie9 .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-actions input[type="submit"], .lt-ie9 .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-actions input[type="button"] {
+        display: block;
+        width: 1.85714em;
+        height: 1.57143em;
+        background-size: 8em;
+        padding: 0;
+        margin: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003232}}
+      .lt-ie9 .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-actions label {
+        display: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003234}}
+    .lt-ie9 .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-item-search-block-form {
+      position: relative;
+      padding: 0;
+      top: 0;
+      right: 0;
+      margin-right: 0;
+      background: none;
+      border: none;
+      margin-left: 0;
+      opacity: 1;
+      visibility: visible; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003245}}
+      .lt-ie9 .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-item-search-block-form input[type="text"] {
+        position: relative;
+        z-index: 2;
+        float: right;
+        line-height: 1em;
+        width: 234%;
+        font-size: 0.78571em;
+        background: #fcfcfc;
+        border: 1px solid #dddddd;
+        border-top: none;
+        color: #777777;
+        height: 3.21429em;
+        border-radius: 0;
+        margin: 0;
+        letter-spacing: .03em;
+        -webkit-transition: width .35s;
+        -moz-transition: width .35s;
+        -o-transition: width .35s;
+        -ms-transition: width .35s;
+        transition: width .35s; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003265}}
+        .lt-ie9 .html .tu-global-header-inner-wrapper .tu-global-header-second .tu-global-header-second-inner .tu-global-search-wrapper #templesearch .form-item-search-block-form input[type="text"].inactive {
+          width: 100%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003276}}
+  .lt-ie9 .html .tu-global-branding {
+    margin-bottom: 1.21429em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003278}}
+    .lt-ie9 .html .tu-global-branding .tu-global-site-name {
+      margin: 0.57143em 0 0.17857em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003282}}
+      .lt-ie9 .html .tu-global-branding .tu-global-site-name a,
+      .lt-ie9 .html .tu-global-branding .tu-global-site-name a:link,
+      .lt-ie9 .html .tu-global-branding .tu-global-site-name a:hover {
+        display: inline;
+        padding: 0;
+        background: none;
+        background-size: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003295}}
+  .lt-ie9 .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner {
+    padding-bottom: 2.57143em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003297}}
+    .lt-ie9 .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-first {
+      margin-bottom: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003299}}
+      .lt-ie9 .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-first .tu-global-postscript-first-inner {
+        margin-left: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003303}}
+    .lt-ie9 .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-second {
+      margin-bottom: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003305}}
+      .lt-ie9 .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-second .tu-global-postscript-second-inner {
+        margin-left: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003311}}
+    .lt-ie9 .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul {
+      margin: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003313}}
+      .lt-ie9 .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul li {
+        margin: 0 0 2em 1.85714em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003315}}
+      .lt-ie9 .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul .tu-global-leaf-3,
+      .lt-ie9 .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul .tu-global-leaf-5 {
+        clear: none;
+        margin-left: 1.85714em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003319}}
+      .lt-ie9 .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul .tu-global-leaf-4 {
+        margin-bottom: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003320}}
+      .lt-ie9 .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul .first, .lt-ie9 .html .tu-global-footer-wrapper .tu-global-postscript-inner-wrapper > .tu-global-postscript-inner .tu-global-postscript-third .tu-global-social-media-wrapper ul .tu-global-leaf-4 {
+        clear: both;
+        margin-left: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003331}}
+  .lt-ie9 .html .tu-global-footer-wrapper .tu-global-footer-inner-wrapper .tu-global-quick-links-wrapper ul {
+    border: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003333}}
+    .lt-ie9 .html .tu-global-footer-wrapper .tu-global-footer-inner-wrapper .tu-global-quick-links-wrapper ul li {
+      float: left;
+      margin: 0 1.5em 0 0;
+      padding: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003337}}
+      .lt-ie9 .html .tu-global-footer-wrapper .tu-global-footer-inner-wrapper .tu-global-quick-links-wrapper ul li a {
+        font-size: 0.78571em;
+        line-height: 1.28571em;
+        margin: 0 0 1.90909em;
+        text-align: left;
+        margin: 0;
+        padding: 0;
+        border-bottom: none;
+        display: inline; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003348}}
+  .lt-ie9 .html .tu-global-footer-wrapper .tu-global-footer-inner-wrapper p {
+    text-align: left; }
+
+/*==========NO BROWSER SUPPORT==========*/
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003356}}
+#tu-global-no-broswer-support {
+  position: fixed;
+  z-index: 100000;
+  top: -10em;
+  left: 0;
+  width: 100%;
+  background: #9e1b34;
+  padding: 1.14286em;
+  border-bottom: 0.28571em solid #5d101e;
+  cursor: pointer; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003366}}
+  #tu-global-no-broswer-support img {
+    width: 22px;
+    margin: 0 auto .5em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003370}}
+  #tu-global-no-broswer-support p {
+    font-family: 'bebas_neueregular';
+    font-weight: normal;
+    -webkit-font-smoothing: antialiased;
+    letter-spacing: 0;
+    letter-spacing: .03em;
+    font-size: 1.57143em;
+    line-height: 1.1em;
+    text-align: center;
+    color: #ffffff;
+    padding: 0;
+    margin: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/tom_cassidy\/Sites\/templates\/sites\/templates\/themes\/conwell\/sass\/assets\/base\/_legacy\.scss}line{font-family:\00003378}}
+    #tu-global-no-broswer-support p span {
+      display: block;
+      font-family: 'droid_sansregular';
+      font-weight: normal;
+      -webkit-font-smoothing: antialiased;
+      letter-spacing: 0;
+      font-weight: 700;
+      font-size: 0.64286em; }

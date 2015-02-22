@@ -1,0 +1,82 @@
+G:\cis3342\CIS3342Solution\Utilities\bin\Debug\Utilities.dll
+G:\cis3342\CIS3342Solution\Utilities\bin\Debug\Utilities.pdb
+G:\cis3342\CIS3342Solution\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+G:\cis3342\CIS3342Solution\Utilities\obj\Debug\Utilities.dll
+G:\cis3342\CIS3342Solution\Utilities\obj\Debug\Utilities.pdb
+C:\Users\tue99351\Desktop\CIS3342Solution1\CIS3342Solution1\Utilities\bin\Debug\Utilities.dll
+C:\Users\tue99351\Desktop\CIS3342Solution1\CIS3342Solution1\Utilities\bin\Debug\Utilities.pdb
+C:\Users\tue99351\Desktop\CIS3342Solution1\CIS3342Solution1\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\tue99351\Desktop\CIS3342Solution1\CIS3342Solution1\Utilities\obj\Debug\Utilities.dll
+C:\Users\tue99351\Desktop\CIS3342Solution1\CIS3342Solution1\Utilities\obj\Debug\Utilities.pdb
+C:\Users\tue99351\Desktop\CIS3342Solution1\CIS3342Solution1\CIS3342Solution1\Utilities\bin\Debug\Utilities.dll
+C:\Users\tue99351\Desktop\CIS3342Solution1\CIS3342Solution1\CIS3342Solution1\Utilities\bin\Debug\Utilities.pdb
+C:\Users\tue99351\Desktop\CIS3342Solution1\CIS3342Solution1\CIS3342Solution1\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\tue99351\Desktop\CIS3342Solution1\CIS3342Solution1\CIS3342Solution1\Utilities\obj\Debug\Utilities.dll
+C:\Users\tue99351\Desktop\CIS3342Solution1\CIS3342Solution1\CIS3342Solution1\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solution (4)\CIS3342Solution\Utilities\bin\Debug\Utilities.dll
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solution (4)\CIS3342Solution\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solution (4)\CIS3342Solution\Utilities\obj\Debug\Utilities.dll
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solution (4)\CIS3342Solution\Utilities\obj\Debug\Utilities.pdb
+C:\Users\tue99351\Desktop\CIS3342Solution (4)\CIS3342Solution (4)\CIS3342Solution\Utilities\bin\Debug\Utilities.dll
+C:\Users\tue99351\Desktop\CIS3342Solution (4)\CIS3342Solution (4)\CIS3342Solution\Utilities\bin\Debug\Utilities.pdb
+C:\Users\tue99351\Desktop\CIS3342Solution (4)\CIS3342Solution (4)\CIS3342Solution\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\tue99351\Desktop\CIS3342Solution (4)\CIS3342Solution (4)\CIS3342Solution\Utilities\obj\Debug\Utilities.dll
+C:\Users\tue99351\Desktop\CIS3342Solution (4)\CIS3342Solution (4)\CIS3342Solution\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solutionnew\CIS3342Solution (4)\CIS3342Solution (4)\CIS3342Solution\Utilities\bin\Debug\Utilities.dll
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solutionnew\CIS3342Solution (4)\CIS3342Solution (4)\CIS3342Solution\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solutionnew\CIS3342Solution (4)\CIS3342Solution (4)\CIS3342Solution\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solutionnew\CIS3342Solution (4)\CIS3342Solution (4)\CIS3342Solution\Utilities\obj\Debug\Utilities.dll
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solutionnew\CIS3342Solution (4)\CIS3342Solution (4)\CIS3342Solution\Utilities\obj\Debug\Utilities.pdb
+C:\Users\tue99351\Desktop\CIS3342Solution10-15\CIS3342Solution10-12\Utilities\bin\Debug\Utilities.dll
+C:\Users\tue99351\Desktop\CIS3342Solution10-15\CIS3342Solution10-12\Utilities\bin\Debug\Utilities.pdb
+C:\Users\tue99351\Desktop\CIS3342Solution10-15\CIS3342Solution10-12\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\tue99351\Desktop\CIS3342Solution10-15\CIS3342Solution10-12\Utilities\obj\Debug\Utilities.dll
+C:\Users\tue99351\Desktop\CIS3342Solution10-15\CIS3342Solution10-12\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solution10-15v3\CIS3342Solution10-15\CIS3342Solution10-12\Utilities\bin\Debug\Utilities.dll
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solution10-15v3\CIS3342Solution10-15\CIS3342Solution10-12\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solution10-15v3\CIS3342Solution10-15\CIS3342Solution10-12\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solution10-15v3\CIS3342Solution10-15\CIS3342Solution10-12\Utilities\obj\Debug\Utilities.dll
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solution10-15v3\CIS3342Solution10-15\CIS3342Solution10-12\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solution10-115verylast\CIS3342Solution10-12\Utilities\bin\Debug\Utilities.dll
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solution10-115verylast\CIS3342Solution10-12\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solution10-115verylast\CIS3342Solution10-12\Utilities\obj\Debug\Utilities.dll
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solution10-115verylast\CIS3342Solution10-12\Utilities\obj\Debug\Utilities.pdb
+C:\Users\tue99351\Desktop\CIS3342Solution10-115verylast\CIS3342Solution10-12\Utilities\bin\Debug\Utilities.dll
+C:\Users\tue99351\Desktop\CIS3342Solution10-115verylast\CIS3342Solution10-12\Utilities\bin\Debug\Utilities.pdb
+C:\Users\tue99351\Desktop\CIS3342Solution10-115verylast\CIS3342Solution10-12\Utilities\obj\Debug\Utilities.dll
+C:\Users\tue99351\Desktop\CIS3342Solution10-115verylast\CIS3342Solution10-12\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solution11last11\CIS3342Solution10-115verylast\CIS3342Solution10-12\Utilities\bin\Debug\Utilities.dll
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solution11last11\CIS3342Solution10-115verylast\CIS3342Solution10-12\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solution11last11\CIS3342Solution10-115verylast\CIS3342Solution10-12\Utilities\obj\Debug\Utilities.dll
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solution11last11\CIS3342Solution10-115verylast\CIS3342Solution10-12\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solution1\Utilities\bin\Debug\Utilities.dll
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solution1\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solution1\Utilities\obj\Debug\Utilities.dll
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solution1\Utilities\obj\Debug\Utilities.pdb
+C:\Users\tue99351\Desktop\CIS3342Solution\Utilities\bin\Debug\Utilities.dll
+C:\Users\tue99351\Desktop\CIS3342Solution\Utilities\bin\Debug\Utilities.pdb
+C:\Users\tue99351\Desktop\CIS3342Solution\Utilities\obj\Debug\Utilities.dll
+C:\Users\tue99351\Desktop\CIS3342Solution\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solution\Utilities\bin\Debug\Utilities.dll
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solution\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solution\Utilities\obj\Debug\Utilities.dll
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solution\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Oleksandr\Desktop\CIS3342Solutionzzzzzzzzzzzzzz\CIS3342Solution\Utilities\bin\Debug\Utilities.dll
+C:\Users\Oleksandr\Desktop\CIS3342Solutionzzzzzzzzzzzzzz\CIS3342Solution\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Oleksandr\Desktop\CIS3342Solutionzzzzzzzzzzzzzz\CIS3342Solution\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Oleksandr\Desktop\CIS3342Solutionzzzzzzzzzzzzzz\CIS3342Solution\Utilities\obj\Debug\Utilities.dll
+C:\Users\Oleksandr\Desktop\CIS3342Solutionzzzzzzzzzzzzzz\CIS3342Solution\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Oleksandr\Desktop\CIS3342Solution\Utilities\bin\Debug\Utilities.dll
+C:\Users\Oleksandr\Desktop\CIS3342Solution\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Oleksandr\Desktop\CIS3342Solution\Utilities\obj\Debug\Utilities.dll
+C:\Users\Oleksandr\Desktop\CIS3342Solution\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Oleksandr\Desktop\CIS3342Solution\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Oleksandr\Desktop\Solutions\RCM Model Project\Utilities\bin\Debug\Utilities.dll
+C:\Users\Oleksandr\Desktop\Solutions\RCM Model Project\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Oleksandr\Desktop\Solutions\RCM Model Project\Utilities\obj\Debug\Utilities.dll
+C:\Users\Oleksandr\Desktop\Solutions\RCM Model Project\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Oleksandr\Desktop\Solutions\RCM Model Project\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Oleksandr\Desktop\RCM_NEW\Utilities\bin\Debug\Utilities.dll
+C:\Users\Oleksandr\Desktop\RCM_NEW\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Oleksandr\Desktop\RCM_NEW\Utilities\obj\Debug\Utilities.dll
+C:\Users\Oleksandr\Desktop\RCM_NEW\Utilities\obj\Debug\Utilities.pdb

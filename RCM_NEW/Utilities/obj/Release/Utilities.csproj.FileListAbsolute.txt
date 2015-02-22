@@ -1,0 +1,16 @@
+C:\Users\tue99351\Desktop\CIS3342Solution1\CIS3342Solution1\Utilities\bin\Release\Utilities.dll
+C:\Users\tue99351\Desktop\CIS3342Solution1\CIS3342Solution1\Utilities\bin\Release\Utilities.pdb
+C:\Users\tue99351\Desktop\CIS3342Solution1\CIS3342Solution1\Utilities\obj\Release\Utilities.dll
+C:\Users\tue99351\Desktop\CIS3342Solution1\CIS3342Solution1\Utilities\obj\Release\Utilities.pdb
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solution\Utilities\bin\Release\Utilities.dll
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solution\Utilities\bin\Release\Utilities.pdb
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solution\Utilities\obj\Release\Utilities.dll
+C:\Users\Oleksandr Redtchits.OleksandrRedtch\Desktop\CIS3342Solution\Utilities\obj\Release\Utilities.pdb
+C:\Users\Oleksandr\Desktop\CIS3342Solution\Utilities\bin\Release\Utilities.dll
+C:\Users\Oleksandr\Desktop\CIS3342Solution\Utilities\bin\Release\Utilities.pdb
+C:\Users\Oleksandr\Desktop\CIS3342Solution\Utilities\obj\Release\Utilities.dll
+C:\Users\Oleksandr\Desktop\CIS3342Solution\Utilities\obj\Release\Utilities.pdb
+C:\Users\Oleksandr\Desktop\RCM_NEW\Utilities\bin\Release\Utilities.dll
+C:\Users\Oleksandr\Desktop\RCM_NEW\Utilities\bin\Release\Utilities.pdb
+C:\Users\Oleksandr\Desktop\RCM_NEW\Utilities\obj\Release\Utilities.dll
+C:\Users\Oleksandr\Desktop\RCM_NEW\Utilities\obj\Release\Utilities.pdb
